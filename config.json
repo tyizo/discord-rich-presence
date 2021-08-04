@@ -1,0 +1,15 @@
+{
+  "clientId": "872399889160618005",
+  "details": "Just testing for my new porject.",
+  "state": "I love you",
+  "largeImage": "meme",
+  "largeImageText": "cute right?",
+  "smallImage": "discordmods",
+  "smallImageText": "lol",
+  "buttons": {
+    "buttonOneLabel": "My Instagram",
+    "buttonOneUrl": "https://www.instagram.com/1xm0d/",
+    "buttonTwoLabel": "My Github",
+    "buttonTwoUrl": "https://github.com/tyizo/"
+  }
+}
