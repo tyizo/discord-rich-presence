@@ -6,7 +6,7 @@ Make you're activity great again!
 
 Please make sure to full the blanks in config.json:
 
-```json
+```js
 {
   "clientId": "", // you're app id
   "details": "", // activity's title
@@ -24,7 +24,7 @@ Please make sure to full the blanks in config.json:
 }
 ```
 
-you can upload images from https://discord.com/developers/applications/your app id/rich-presence/assets
+you can upload images from https://discord.com/developers/applications/your-app-id/rich-presence/assets
 
 Example:
 
@@ -46,7 +46,7 @@ Example:
 }
 ```
 
-![image]("./screenshots/Screenshot_1.png")
+![image](./screenshots/Screenshot_1.png)
 
 ## How to run this:
 
