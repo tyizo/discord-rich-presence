@@ -1,6 +1,6 @@
 ## Discord Rich Precense
 
-Make you're activity great again!
+Make your activity great again!
 
 ## Setup:
 
