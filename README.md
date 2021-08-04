@@ -53,3 +53,5 @@ Example:
 - Download and unzip/clone the repo
 - After that go to the location of this repo and, `yarn install`
 - run the script by, `node index.js`
+
+keep the command prompt open while you're running the script :D
